@@ -69,3 +69,9 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type:
+  
+# Hexo admin setup
+admin:
+  username: vnallware
+  password_hash: 6ac3b8540eef3f541c924bda9fc02bd6
+  secret: csnt
