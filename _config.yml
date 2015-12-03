@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: ThienNguyenBlog
 subtitle:
 description:
-author: John Doe
+author: Thien Nguyen
 language:
 timezone:
 
@@ -63,7 +63,8 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+#theme: landscape
+theme: codeland
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -75,3 +76,7 @@ admin:
   username: vnallware
   password_hash: 6ac3b8540eef3f541c924bda9fc02bd6
   secret: csnt
+  
+# Disqus
+disqus_shortname: communitydeveloper
+
